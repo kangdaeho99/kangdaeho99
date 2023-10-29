@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangdaeho99&show_icons=true&theme=radical)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=kangdaeho)](https://solved.ac/kangdaeho)
